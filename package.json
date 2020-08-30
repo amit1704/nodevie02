@@ -13,8 +13,7 @@
   },
   "scripts": {
     "watch": "nodemon --watch \"src/\" --exec \"node src/app.js\"",
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "nodemon app.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
     "LiveStream",
