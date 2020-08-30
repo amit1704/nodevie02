@@ -18,4 +18,4 @@ app.get( '/', ( req, res ) => {
 
 io.of( '/stream' ).on( 'connection', stream );
 
-server.listen(port);
+server.listen( port );
